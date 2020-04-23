@@ -1,2 +1,6 @@
-# Introduction-to-Workflow-Management-Platform-Airflow-
- In this module, you will look at creating a pipeline by breaking down a job into multiple executable stages. You will implement a simple linear pipeline and then move further by implementing a multi-stage data pipeline, then automate the multi-stage pipeline using Bash. Further  to this you will improve the efficiency by running  the pipeline as an asynchronous process using the ETL workflow and then create DAG for the pipeline and implement it using Airflow.
+# Introduction to Workflow Management Platform (Airflow)
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow.svg)](https://github.com/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow.svg)](https://github.com/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow.svg)](https://github.com/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Workflow-Management-Platform-Airflow/pulls)
+
